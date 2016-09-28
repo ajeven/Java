@@ -32,7 +32,7 @@ public class labNine {
             System.out.println("Would you like to find dimensions for another circle? (y/n)");
             goOn = entry.next();
         }
-        System.out.println("That you for using my application!" +
+        System.out.println("Thank you for using my application!" +
         "\nYou found dimentions for " + count + " circles.");
     }
 }
